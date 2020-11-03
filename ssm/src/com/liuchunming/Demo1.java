@@ -9,5 +9,6 @@ package com.liuchunming;
 public class Demo1 {
     public static void main(String[] args) {
         System.out.println(" idea git demo 44");
+        System.out.println(" idea git demo 33");
     }
 }
